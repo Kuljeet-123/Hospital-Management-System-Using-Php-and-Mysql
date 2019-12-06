@@ -10,7 +10,7 @@
         ?>
         </p>
         <p align="right">
-        Made and managed using HMS by KAP - <?php echo date('Y'); ?>
+        Made By Kuljeet Singh- <?php echo date('Y'); ?>
         </nav>
 		</p>
       </footer>

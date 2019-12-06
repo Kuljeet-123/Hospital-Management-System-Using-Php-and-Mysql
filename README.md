@@ -98,4 +98,4 @@ ALTER TABLE `patient_info`
   MODIFY `patient_Id` int(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=85;
 ```
 
-Copyright (c) 2017 Ankush Choubey - MIT License
+

@@ -14,7 +14,7 @@
   include("nav-bar.php");
 ?>
 <div class="container">
- 	<h1 align=center>Staff Login for Sunrise Hospital</h1>
+ 	<h1 align="center">Staff Login for Health Portal</h1>
 
     <?php
       if (isset($_POST['email'])){
@@ -33,11 +33,11 @@
       <form action="hms-staff.php" method="POST">
         <div class="form-group">
           <label for="usr">Username:</label>
-          <input type="text" class="form-control" name="email" style="width: 500;" required>
+          <input type="text" class="form-control" name="email" style="width: 500;" required="required">
         </div>
         <div class="form-group">
           <label for="pwd">Password:</label>
-          <input type="password" class="form-control" name="password" style="width: 500;" required>
+          <input type="password" class="form-control" name="password" style="width: 500;" required="required">
         </div>
         <div class="form-group">
           <label for="pwd">User Type:</label>
