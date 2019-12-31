@@ -1,6 +1,6 @@
 # Hospital Management System Mini-Project
 
-This **was My First short PHP Project**. 
+**This was My First short PHP Project**. 
 
 ## Features:
   1. Front Page Slideshow
